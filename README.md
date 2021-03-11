@@ -4,7 +4,7 @@ I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this pa
 
 - 🔭 I’m currently working on **modified version of HasalaTech**, built from the ground up using Vue3
 - 🌱 I’m currently learning **Vue3**, HasalaTech is the ultimate project to experience all things related to Vue3 in general.
-- 🤔 I'm planning to learn **Flutter** as well as **Unity** before the end of 2021.
+- 🤔 I'm planning to learn **Flutter, Unity** as well as **TailwindCSS** before the end of 2021.
 - 💬 Ask me about **Software Engineering and Web development**, I'd be more than happy to help you out!
 - 📫 How to reach me: 
    - **salmanyghamdi@gmail.com**
