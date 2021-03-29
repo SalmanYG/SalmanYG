@@ -24,7 +24,7 @@ I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this pa
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanyg&show_icons=true&theme=radical&langs_count=10&layout=compact" />
 </p>
 
-*NOTE: Top languages are not an indicator skill, it's just a metric of how much public code I have written over the years.*
+*NOTE: Top languages are not a skill indicator, it's just a metric of how much public code I have written over the years.*
 
 <hr>
 <p align="center">
