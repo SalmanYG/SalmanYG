@@ -38,8 +38,6 @@ I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this pa
 <p align="center">
   <i>Contact Me!</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/salmanyg/" alt="Linkedin"><img src="./assets/linkedin.png"></a>
-    <a href="https://twitter.com/salmanyghamdi" alt="Twitter"><img src="./assets/twitter.png"></a>
     <a href="mailto:salmanyghamdi@gmail.com" alt="My site"><img src="./assets/email.png"></a>
   </p>
 <p>
