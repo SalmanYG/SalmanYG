@@ -3,7 +3,7 @@
 I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this page when I was a sophomore student and just started learning Java and Software Engineering in general, since then, I started exploring and creating multiple projects either as a coursework or independently to learn and master different languages and skills! I hope you watch over me as I develop and create more and more! Thank you for dropping by!
 
 - 🔭 I’m currently working on a **confidential** project
-- 🌱 I’m currently practicing **Vue3 & Firebase**
+- 🌱 I’m currently practicing **Vue3, Firebase, Nodejs, & MongoDB/Mongoose**
 - 🤔 I'm planning to learn **Flutter, Unity** as well as **TailwindCSS** before the end of 2021.
 - 💬 Ask me about **Software Engineering and Web development**, I'd be more than happy to help you out!
 
