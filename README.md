@@ -1,10 +1,11 @@
 ## Welcome to My GitHub Page 👋
 
-I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this page when I was a sophomore student and just started learning Java and Software Engineering in general, since then, I started exploring and creating multiple projects either as a coursework or independently to learn and master different languages and skills! I hope you watch over me as I develop and create more and more! Thank you for dropping by!
+I'm Salman Al-Ghamdi, a senior software engineering student at KFUPM. I started this page when I was a sophomore student learning Java and studying Software Engineering. Since then, I started exploring and creating multiple projects either as a coursework or independently to learn and master different languages and skills! I work currently at [**Tamara**](https://tamara.co/) as a **frontend development intern**. I'd be happy to have a chat with you if you need anything! Thank you for checking my page 😊🌹.
 
-- 🔭 I’m currently working on a **confidential** project
-- 🌱 I’m currently practicing **Vue3, Firebase, Nodejs, & MongoDB/Mongoose**
-- 🤔 I'm planning to learn **Flutter, Unity** as well as **TailwindCSS** before the end of 2021.
+- 🔭 I’m currently working as an **intern** at **Tamara**.
+- 🌱 I’m currently practicing **Unity** in my free time.
+- 🤔 I'm planning to learn **Flutter** in the near future.
+- 📚 I'm planning to read **Clean Architecture** by Uncle Bob
 - 💬 Ask me about **Software Engineering and Web development**, I'd be more than happy to help you out!
 
 ### Tecnologies That I Used 💻
@@ -15,9 +16,11 @@ I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this pa
 - NodeJS <img style="margin-left: 5px" src="./assets/nodejs.png">
 - MongoDB <img src="./assets/mongodb.png">
 - Vue.js <img src="./assets/vuejs.png">
-- *Flutter, Unity, and TailwindCSS soon...* <img src="./assets/flutter.png"> <img src="./assets/unity.png"> <img width=24 height=24 src="./assets/tailwind.svg">
+- TailwindCSS <img width=24 height=24 src="./assets/tailwind.svg">
+- Unity <img src="./assets/unity.png">
+- *Flutter soon...* <img src="./assets/flutter.png">
 
-### My Recent Projects
+### My Recent Side Project
 - HasalaTech is a website that allow its users to create wallets, track spendings, and share these wallets with others. HasalaTech was created using Vue3 and Firebase. This project was made by me and [@Hashim99](https://github.com/Hashim99).
 <p align=center>
   <a href="https://github.com/SalmanYG/hasala-tech">
@@ -38,6 +41,7 @@ I'm Salman Al-Ghamdi, a software engineering student at KFUPM. I started this pa
 <p align="center">
   <i>Contact Me!</i>
   <p align="center">
+    <a href="https://www.linkedin.com/in/salmanyg/" alt="Linkedin"><img src="./assets/linkedin.png"></a>
     <a href="mailto:salmanyghamdi@gmail.com" alt="My site"><img src="./assets/email.png"></a>
   </p>
 <p>
