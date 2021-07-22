@@ -8,7 +8,7 @@ I'm Salman Al-Ghamdi, a senior software engineering student at KFUPM. I started 
 - 📚 I'm planning to read **Clean Architecture** by Uncle Bob
 - 💬 Ask me about **Software Engineering and Web development**, I'd be more than happy to help you out!
 
-### Tecnologies That I Used 💻
+### Technologies That I Used 💻
 - Java <img src="./assets/java.png">
 - HTML5, CSS3, & JavaScript <img src="./assets/html5.png"> <img src="./assets/css3.png"> <img src="./assets/javascript.png">
 - Bootstrap <img style="margin-left: 5px" src="./assets/bootstrap.png">
