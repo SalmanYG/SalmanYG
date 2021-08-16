@@ -1,8 +1,8 @@
 ## Welcome to My GitHub Page 👋
 
-I'm Salman Al-Ghamdi, a senior software engineering student at KFUPM. I started this page when I was a sophomore student learning Java and studying Software Engineering. Since then, I started exploring and creating multiple projects either as a coursework or independently to learn and master different languages and skills! I work currently at [**Tamara**](https://tamara.co/) as a **frontend development intern**. I'd be happy to have a chat with you if you need anything! Thank you for checking my page 😊🌹.
+I'm Salman Al-Ghamdi, a senior software engineering student at KFUPM. I started this page when I was a sophomore student learning Java and studying Software Engineering. Since then, I started exploring and creating multiple projects either as a coursework or independently to learn and master different languages and skills! I work currently at [**Tamara**](https://github.com/tamara-solution) as a **frontend development intern**. I'd be happy to have a chat with you if you need anything! Thank you for checking my page 😊🌹.
 
-- 🔭 I’m currently working as an **intern** at **Tamara**.
+- 🔭 I’m currently working as an **intern** at [**Tamara**](https://github.com/tamara-solution).
 - 🌱 I’m currently practicing **Unity** in my free time.
 - 🤔 I'm planning to learn **Flutter** in the near future.
 - 📚 I'm planning to read **Clean Architecture** by Uncle Bob
