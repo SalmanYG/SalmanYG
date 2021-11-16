@@ -22,12 +22,12 @@ I'm Salman Al-Ghamdi, a senior software engineering student at KFUPM. Interested
 
 ### My Side Projects 🧑‍💻
 - HasalaTech is a website that allow its users to create wallets, track spendings, and share these wallets with others. HasalaTech was created using Vue3 and Firebase. This project was made by me and [@Hashim99](https://github.com/Hashim99).
+- Soon to come...
 <p align=center>
   <a href="https://github.com/SalmanYG/hasala-tech">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=salmanyg&repo=hasala-tech&theme=radical">
   </a>
 </p>
-- Soon to come...
 
 ### My Github Statistics 📊
 <br>
